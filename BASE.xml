@@ -17,44 +17,47 @@
 
 
 
-	<channel>
-		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR blue][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link>http://ignorame</link>
-		<externallink>http://pastebin.com</externallink>
-	</channel>
+<item>
+<title>[COLOR red]* [/COLOR][COLOR blue] JHG [/COLOR][COLOR red] MASTER  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>	
+</item>
 
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES RETRO[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
-	</channel>
-	
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES JUAN [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>
-	</channel>
-	
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ZONA [/COLOR] [COLOR red] ENTRETENIMIENTO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</thumbnail>
+<fanart>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
+</item>
 
-		<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] SAGAS [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>
-	</channel>
-	
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]  ENTRETENIMIENTO [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>
-	</channel>
+
+<item>
+<title>[COLOR red] *JHG [/COLOR][COLOR yellow] *DOCUMENTALES [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://static.13.cl/7/sites/default/files/13c/programas/field-imagen/documentales.jpg</thumbnail>
+<fanart>http://static.13.cl/7/sites/default/files/13c/programas/field-imagen/documentales.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/documentales.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] INFANTIL [/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail>http://infantil.britanico-aragon.edu/wp-content/uploads/2015/04/header-infantil.png</thumbnail>
+<fanart>http://infantil.britanico-aragon.edu/wp-content/uploads/2015/04/header-infantil.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/zONAPEQUE.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR red]*EVENTOS [/COLOR][COLOR blue] DEPORTIVOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Eventosdeportivos.xml</externallink>	
+</item>
 	
