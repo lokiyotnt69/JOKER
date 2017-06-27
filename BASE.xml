@@ -3,54 +3,21 @@
 
 
 
-<item>
-<title>[COLOR white] ****************** [/COLOR][COLOR yellow] THE [/COLOR] [COLOR white] JOKER*************** [/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-</item>
 
-
-<item>
-<title>
-[COLOR red]***INVITACION A CAFÉ****PAYPAL******** [/COLOR][COLOR blue] PAYPAL [/COLOR][COLOR yellow] Zyattro@hotmail.com  [/COLOR]</title>
-<link>http://</link>
-</item>
-
-
-<item>
-<title>[COLOR white] ************* [/COLOR][COLOR yellow] *** [/COLOR] [COLOR white] ** [/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-</item>
-
-https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
-
-
- 
-<item>
-<title> [COLOR skyblue]**AdryanList** [/COLOR]</title>
-<link>NA</link>
-<externallink>http://adryanlist.info</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-[COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]
-
-
- 
- 
-
-<item>
-<title>[COLOR red]*ZONA [/COLOR][COLOR blue] JHGFLIX [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://pbs.twimg.com/profile_images/496691676530745345/0KLBa3qi.jpeg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/496691676530745345/0KLBa3qi.jpeg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
-</item>
- 
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES RETRO[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SERIES JUAN [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>
+	</channel>
+	
  
