@@ -1,29 +1,124 @@
 <channels>
 	<channels_info>
-		<title>[COLOR red]*DIABLO[/COLOR][COLOR blue] 2.0[/COLOR][COLOR red] ADDON[/COLOR]</title>
-		<genre>DIABLO MASTER</genre>
-		<description> Addon DIABLO MASTER Para el Disfrute de Todos</description>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<title>[COLOR red]*BIENVENIDOS[/COLOR][COLOR blue] A [/COLOR][COLOR red] THE JOKER[/COLOR]</title>
+		<genre>THE JOKER </genre>
+		<description> Addon THE JOKER  Para el Disfrute de Todos</description>
+		<thumbnail>----------------</thumbnail>
+		<fanart>------------</fanart>
 		<date></date>
-		<credits>DIABLO 2.0</credits>
+		<credits>THE JOKER </credits>
 	</channels_info>
 	
 	
 	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] JOKER  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>-------------</thumbnail>
+		<fanart>-----------------</fanart>
 		<link></link>http://ignoreme
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE2JOKER.xml</externallink>
 	</channel>
 	
 	
 	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] JHG MASTER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JHG MASTER* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/Index2JHG.xml</externallink>
 	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SEriesretro1.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESJOKER.xml</externallink>
+	</channel>
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	
 	
