@@ -99,16 +99,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR red]*[/COLOR]*SERIES [COLOR yellow] RETRO [/COLOR][COLOR red] THE [/COLOR][COLOR yellow] JOKER [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://serialobzor.ru/upload/blogs/e35c961e564cc7b1bed6a4a7cab8e109.jpg</thumbnail>
+<fanart>http://serialobzor.ru/upload/blogs/e35c961e564cc7b1bed6a4a7cab8e109.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SEriesretro1.xml</externallink>	
 </item>
 
 <item>
 <title>[COLOR red]*[/COLOR]*SERIES [COLOR red] THE [/COLOR][COLOR yellow] JOKER [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://st-listas.20minutos.es/images/2013-08/366619/list_640px.jpg?1375803673</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2013-08/366619/list_640px.jpg?1375803673</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESJOKER.xml</externallink>	
 </item>
 
@@ -116,8 +116,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR red]*[/COLOR]*SERIES [COLOR yellow]*INFANTILES[/COLOR][COLOR red] THE [/COLOR][COLOR yellow] JOKER [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
+<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>	
 </item>
 
