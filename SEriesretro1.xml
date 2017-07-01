@@ -3,7 +3,7 @@
 
 
 <item>
-<title>AIDA</title>
+<title>[COLOR red]*AIDA[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -42,7 +42,7 @@
 </item>
  
 <item>
-<title>AGUILA ROJA</title>
+<title>[COLOR red]*AGUILA ROJA[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -170,7 +170,7 @@
 
 
 <item>
-<title>FRIENDS</title>
+<title>[COLOR red]*FRIENDS[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -213,7 +213,8 @@
 
 	
 <item>
-<title>EL COCHE FANTASTICO</title>
+<title>
+[COLOR red]*EL COCHE FANTASTICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -255,7 +256,7 @@
 	
 
 <item>
-<title>EL PRINCIPE DE BEL AIR</title>
+<title>[COLOR red]*EL PRINCIPE DE BEL AIR[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>

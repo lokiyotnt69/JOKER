@@ -6,7 +6,8 @@
 
  
 <item>
-<title>JUEGO DE TRONOS</title>
+<title>
+[COLOR red]*JUEGO DE TRONOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -50,7 +51,8 @@
 
  
 <item>
-<title>HEROES</title>
+<title>
+[COLOR red]*HEROES[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -91,7 +93,7 @@
  
  
 <item>
-<title>LOST PERDIDOS</title>
+<title>[COLOR red]*LOST PERDIDOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -131,7 +133,8 @@
   
  
 <item>
-<title>NARCOS</title>
+<title>
+[COLOR red]*NARCOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -171,7 +174,7 @@
   
 
 
-
+[COLOR red]*[/COLOR]
 
 
 
@@ -216,7 +219,8 @@
  
  
 <item>
-<title>WESTWORLD</title>
+<title>
+[COLOR red]*WESTWORLD[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
