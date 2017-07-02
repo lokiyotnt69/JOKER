@@ -337,6 +337,19 @@
 
 
 
+
+<item>
+<title>[COLOR red]*THE UNIT [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/THEUNIT.xml</externallink>	
+</item>
+
+
+
+
+
 <item>
 <title>[COLOR red]*TWIN PEAKS[/COLOR]</title>
 <link>$doregex[makelist]</link>
