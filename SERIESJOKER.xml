@@ -39,8 +39,7 @@
 <fanart>---------------BACKGROUND------------</fanart>
 <thumbnail>--------------ICON----------------</thumbnail>
 </item>
- 
- 
+  
 
 <item>
 <title>[COLOR red]*CASTLE[/COLOR]</title>
@@ -79,8 +78,6 @@
 <fanart>http://4.bp.blogspot.com/-wCopRHbbFu0/T6iUJBHRFyI/AAAAAAAAD2c/r5jWE007coQ/s1600/Castle_Paley.jpg</fanart>
 <thumbnail>http://4.bp.blogspot.com/-wCopRHbbFu0/T6iUJBHRFyI/AAAAAAAAD2c/r5jWE007coQ/s1600/Castle_Paley.jpg</thumbnail>
 </item>
-
-
 
 
 
@@ -163,14 +160,10 @@
 <fanart>http://www.citydisc.ch/media/image/92/fb/3c/Game-Of-Thrones-Season-5-Poster-556984326f383d_250x250.jpg</fanart> <!-- aqui va el fondo -->
 </item>
  
- 
-
- 
-
+  
  
 <item>
-<title>
-[COLOR red]*HEROES[/COLOR]</title>
+<title>[COLOR red]*HEROES[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -292,11 +285,6 @@
   
 
 
-[COLOR red]*[/COLOR]
-
-
-
-
 <item>
 <title>[COLOR red]*The Big Bang Theory [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -336,17 +324,13 @@
 </item>
 
 
-
-
 <item>
 <title>[COLOR red]*THE UNIT [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/8d/The_Unit_season_2_DVD.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/8/8d/The_Unit_season_2_DVD.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/THEUNIT.xml</externallink>	
 </item>
-
-
 
 
 
@@ -425,8 +409,7 @@
 <fanart>http://es.web.img3.acsta.net/medias/nmedia/19/02/58/28/20664897.jpg</fanart>
 <thumbnail>http://es.web.img3.acsta.net/medias/nmedia/19/02/58/28/20664897.jpg</thumbnail>
 </item>
- 
- 
+  
  
 <item>
 <title>
