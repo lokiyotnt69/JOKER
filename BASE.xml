@@ -49,13 +49,20 @@
 	
 	
 	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO 2[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<link></link>http://ignoreme
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
 	</channel>
 	
+			<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*LA[/COLOR][COLOR blue] TAQUILLA[/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/LATAQUILLAFJHG.xml</externallink>
+	</channel>
 	
 		
 	<channel>
