@@ -29,6 +29,16 @@
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SEriesretro1.xml</externallink>
 	</channel>
 	
+		
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO 2[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://serialobzor.ru/upload/blogs/e35c961e564cc7b1bed6a4a7cab8e109.jpg</thumbnail>
+		<fanart>http://serialobzor.ru/upload/blogs/e35c961e564cc7b1bed6a4a7cab8e109.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+	</channel>
+	
 	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
@@ -47,14 +57,14 @@
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
 	</channel>
 	
-	
 	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO 2[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</thumbnail>
+		<fanart>http://cdn6.dibujos.net/images/listas/la-10-mejores-series-infantiles-para-ninos-pequenos.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/SERIESRETRO/master/baseseriesretro.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</externallink>
 	</channel>
+
 	
 			<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue]*LA[/COLOR][COLOR blue] TAQUILLA[/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
