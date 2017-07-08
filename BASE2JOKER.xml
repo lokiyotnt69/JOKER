@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray] DEDICADO A TODA LA GENTE QUE NOS APOYA [/COLOR][/B]     </title>
+<title>                                  [B][COLOR lightslategray] DEDICADO A TONI, DELIA, NEREO, ANABEL,OSCAR, EDUARDO,ANGEL,JUANJO MONTSE, LOURDES, Y TODA LA GENTE QUE NOS APOYA [/COLOR][/B]     </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -43,7 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR red]*ESTE [/COLOR][COLOR blue]*ADDON [/COLOR][COLOR red] *ES [/COLOR]*[COLOR blue]*POR[/COLOR][COLOR red]*VOSOTROS [/COLOR][/B]      </title>
+<title>                                            [B][COLOR red]*ESTE [/COLOR][COLOR blue]*ADDON JOKER [/COLOR][COLOR red] *ES [/COLOR]*[COLOR blue]*POR[/COLOR][COLOR red]*VOSOTROS [/COLOR][/B]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -325,14 +325,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
- 
-<item>
-<title>[COLOR green]*ZONA[/COLOR][COLOR skyblue] SERIES [/COLOR][COLOR lime] INFANTILES [/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/ZONASERIESKIRA.xml</externallink>
-</item>
 
 
 	
