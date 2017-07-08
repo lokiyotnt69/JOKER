@@ -10,8 +10,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/b/ba/Agents_of_S.H.I.E.L.D._season_3_poster.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/ba/Agents_of_S.H.I.E.L.D._season_3_poster.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/agents-of-shield-71001/list,1,4</page>
@@ -36,8 +36,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/b/ba/Agents_of_S.H.I.E.L.D._season_3_poster.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/ba/Agents_of_S.H.I.E.L.D._season_3_poster.jpg</thumbnail>
 </item>
   
 
@@ -83,8 +83,8 @@
 <item>
 <title>[COLOR red]*COMMUNITY [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51-aHIE5LdL.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/51-aHIE5LdL.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/COMMUNITY.xml</externallink>	
 </item>
 
@@ -97,8 +97,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://seriesadicto.com/img/series/con-el-culo-al-aire.jpg</fanart>
+<thumbnail>http://seriesadicto.com/img/series/con-el-culo-al-aire.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/con-el-culo-al-aire-completa-el-rockero-62755/list,1,2</page>
@@ -123,8 +123,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://seriesadicto.com/img/series/con-el-culo-al-aire.jpg</fanart>
+<thumbnail>http://seriesadicto.com/img/series/con-el-culo-al-aire.jpg</thumbnail>
 </item>
  
  
@@ -300,6 +300,45 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/NIKITA.xml</externallink>	
 </item>
 
+<item>
+<title>PRISON BREAK1-4</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.seriespapaya.com/uploads/Prison-Break20.jpg</thumbnail> <!-- aqui va la portada -->
+        <fanart>http://www.seriespapaya.com/uploads/Prison-Break20.jpg</fanart> <!-- aqui va el fondo -->
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/prison-break-castellano-todas-temporadas-41132/list,1,4</page> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/prison-break-castellano-todas-temporadas-41132/list,1,4</referer> <!-- cambial este link por el de la pagina donde estan las peliculas o series si son varias paginas ir hasta el final y copiar el link completeo termina con list, 1,x --->
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.seriespapaya.com/uploads/Prison-Break20.jpg</thumbnail> <!-- aqui va la portada -->
+<fanart>http://www.seriespapaya.com/uploads/Prison-Break20.jpg</fanart> <!-- aqui va el fondo -->
+</item>
+
 
 <item>
 <title>[COLOR red]*The Big Bang Theory [/COLOR]</title>
@@ -358,8 +397,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://ep01.epimg.net/verne/imagenes/2015/01/22/articulo/1421922199_253043_1421927090_noticia_normal.jpg</fanart>
+<thumbnail>https://ep01.epimg.net/verne/imagenes/2015/01/22/articulo/1421922199_253043_1421927090_noticia_normal.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/twin-peaks-69709/list,1,2</page>
@@ -384,8 +423,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://ep01.epimg.net/verne/imagenes/2015/01/22/articulo/1421922199_253043_1421927090_noticia_normal.jpg</fanart>
+<thumbnail>https://ep01.epimg.net/verne/imagenes/2015/01/22/articulo/1421922199_253043_1421927090_noticia_normal.jpg</thumbnail>
 </item>
 
 <item>
