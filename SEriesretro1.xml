@@ -129,8 +129,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</fanart>
+<thumbnail>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/ana-y-los-siete-69616/list,1,4</page>
@@ -155,8 +155,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</fanart>
+<thumbnail>http://www.formulatv.com/images/noticias/39900/39936/1_fde9a3c0ba.jpg</thumbnail>
 </item>
 
 <item>
@@ -207,8 +207,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/naredo/colombo-serie-completa-20532/list,1,3</page>
@@ -233,8 +233,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</fanart>
+<thumbnail>https://pics.filmaffinity.com/columbo_tv_series-245709465-large.jpg</thumbnail>
 </item>
 
 <item>
@@ -403,8 +403,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</fanart>
+<thumbnail>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/trivianita/escenas-de-matrimonio-el-rockero-54191/list,1,2</page>
@@ -429,8 +429,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</fanart>
+<thumbnail>http://img.desmotivaciones.es/201109/C_2_maincontent_27326_largeimage.jpg</thumbnail>
 </item>
 
 
@@ -647,8 +647,8 @@
   <listrepeat><![CDATA[
         <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</fanart>
+<thumbnail>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/naredo/el-coche-fantastico-53427/list,1,4</page>
@@ -673,8 +673,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<fanart>---------------BACKGROUND------------</fanart>
-<thumbnail>--------------ICON----------------</thumbnail>
+<fanart>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</fanart>
+<thumbnail>http://laguiatv.abc.es/archivos/201112/cochefantastico.jpg</thumbnail>
 </item>
 
 
