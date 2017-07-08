@@ -295,13 +295,13 @@
 <item>
 <title>[COLOR red]*NIKITA [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.lasreflexionesdekina.es/wp-content/uploads/2015/12/82.jpg</thumbnail>
+<fanart>http://www.lasreflexionesdekina.es/wp-content/uploads/2015/12/82.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/NIKITA.xml</externallink>	
 </item>
 
 <item>
-<title>PRISON BREAK1-4</title>
+<title>[COLOR red]PRISON BREAK[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
