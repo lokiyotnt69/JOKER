@@ -12,7 +12,7 @@
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray] DEDICADO A TONI, DELIA, NEREO, ANABEL,OSCAR, EDUARDO,ANGEL,JUANJO MONTSE, LOURDES, Y TODA LA GENTE QUE NOS APOYA [/COLOR][/B]     </title>
+<title>                                  [B][COLOR lightslategray] DEDICADO A  TODA LA GENTE QUE NOS APOYA [/COLOR][/B]     </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
