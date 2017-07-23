@@ -1,6 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ <item>
+      <title>[COLOR  yellow]* [/COLOR][COLOR yellow]CERRADO [/COLOR][COLOR red]POR[/COLOR][COLOR red]VACACIONES[/COLOR]</title>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</item>  
+  
+   <item>
+      <title>[COLOR  yellow]* [/COLOR][COLOR yellow]VOLVEMOS MUY PRONTO [/COLOR]</title>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</item>  
 	
-
+	<!--------
 <channels>
 	<channels_info>
 		<title>[COLOR red]*CERRADO[/COLOR][COLOR blue] POR [/COLOR][COLOR red] VACACIONES  VOLVEREMOS PRONTO CON TODO RENOVADO[/COLOR]</title>
@@ -11,7 +27,7 @@
 		<date></date>
 		<credits>THE JOKER </credits>
 	</channels_info>
-		<!--------	
+		
 
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
