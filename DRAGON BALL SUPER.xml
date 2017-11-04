@@ -14,7 +14,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juan-hinojosa-garcia/dragon-ball-super-91536</page>
+<page>http://diskokosmiko.mx/juan-hinojosa-garcia/dragon-ball-super-91536/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -32,7 +32,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/dragon-ball-super-91536</referer>
+<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/dragon-ball-super-91536/list,1,2</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
