@@ -16,7 +16,15 @@
 	</channels_info>
 		
 
-		
+			
+			
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*MUY PRONTO NUEVA VERSION!!!!![/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link>http://ignoreme</link>
+		<externallink></externallink>
+	</channel>	
 		
 		
 			
@@ -37,7 +45,29 @@
 	</channel>
 	
 	
+
+	
+		
 	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>http://i.imgur.com/rz4qTQ7.jpg</thumbnail>
+		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
+	</channel>
+	
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
+		<link>http://i.imgur.com/rz4qTQ7.jpg</link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SeriescrioPlanA.xml</externallink>
+	</channel>
+	
+	<!-----------------------
+	
+		<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES RETRO* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>http://i.imgur.com/o11UEZS.jpg</thumbnail>
 		<fanart>http://i.imgur.com/o11UEZS.jpg</fanart>
@@ -63,28 +93,6 @@
 		<link></link>http://ignoreme
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESJOKER.xml</externallink>
 	</channel>
-	
-		
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>http://i.imgur.com/rz4qTQ7.jpg</thumbnail>
-		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
-	</channel>
-	
-		
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]*SERIES INFANTILES 2* [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail></thumbnail>
-		<fanart>http://i.imgur.com/rz4qTQ7.jpg</fanart>
-		<link>http://i.imgur.com/rz4qTQ7.jpg</link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SeriescrioPlanA.xml</externallink>
-	</channel>
-	
-	<!-----------------------
-	
-	
 	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
