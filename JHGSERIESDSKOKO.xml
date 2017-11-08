@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ORANGE IS THE NEW BLACK 3 T [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] SUPERAGENTE86 T2[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -89,7 +89,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juan-hinojosa-garcia/orange-is-the-new-black-924</page>
+<page>http://diskokosmiko.mx/juan-hinojosa-garcia/superagente-86-t2-91994</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -107,7 +107,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/orange-is-the-new-black-924</referer>
+<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/superagente-86-t2-91994</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -116,7 +116,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] EL EQUIPO A [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] VELVET COLECCION [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -127,7 +127,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juan-hinojosa-garcia/el-equipo-a-86758</page>
+<page>http://diskokosmiko.mx/juan-hinojosa-garcia/velvet-coleccion-91527</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -145,7 +145,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/el-equipo-a-86758</referer>
+<referer>http://diskokosmiko.mx/juan-hinojosa-garcia/velvet-coleccion-91527</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
