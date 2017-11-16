@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-	
+<SetViewMode>500</SetViewMode>	
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] NARCOS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
